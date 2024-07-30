@@ -15,26 +15,26 @@ if(usertypingemail==email)
 }
 
 //for in loop
-/*arr=[10,20,"hello",true]
+arr=[10,20,"hello",true]
 for(i in arr)
 {
     console.log(i);
-}*/
+}
 
 
 //for of loop
-/*arr=[10,20,"hello",true]
+arr=[10,20,"hello",true]
 for(i of arr)
 {
 console.log(i);
-}*/
+}
 
 
 //for Each loop
-/*arr=[10,20,"hello",true]
+arr=[10,20,"hello",true]
 arr.forEach(i => 
 {
     console.log(i);
-});*/
+});
 
 
