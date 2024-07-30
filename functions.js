@@ -7,7 +7,7 @@ function evenodd()
         console.log("Number is even");
     }
     else{
-        console.log("Number is odd")
+        console.log("Number is odd");
 }
 }
 evenodd()
@@ -21,7 +21,7 @@ function evenodd()
     }
     else
     {
-        return("Number is odd")
+        return("Number is odd");
         }
         }
         console.log(evenodd());
@@ -34,7 +34,7 @@ function evenodd(a)
         }
         else
         {
-            console.log("Number is odd")
+            console.log("Number is odd");
         }
     }
     evenodd(108);
@@ -47,7 +47,7 @@ function evenodd(a)
         }
         else
         {
-            return("Number is odd")
+            return("Number is odd");
         }
 }
 console.log(evenodd(109));
